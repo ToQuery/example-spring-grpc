@@ -28,7 +28,7 @@
         <protobuf.version>3.12.0</protobuf.version>
         <protoc.version>3.12.0</protoc.version>
 
-        <maven-archetype.version>2.4</maven-archetype.version>
+        <maven-archetype.version>3.2.1</maven-archetype.version>
         <!-- required for jdk9 -->
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
