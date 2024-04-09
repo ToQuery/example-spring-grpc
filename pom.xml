@@ -31,7 +31,7 @@
 
         <protobuf.version>4.26.0</protobuf.version>
 
-        <grpc.version>1.62.2</grpc.version><!-- CURRENT_GRPC_VERSION -->
+        <grpc.version>1.63.0</grpc.version><!-- CURRENT_GRPC_VERSION -->
 
 
         <protoc.version>3.12.0</protoc.version>
