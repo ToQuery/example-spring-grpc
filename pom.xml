@@ -36,7 +36,7 @@
 
         <protoc.version>3.12.0</protoc.version>
 
-        <maven-archetype.version>2.4</maven-archetype.version>
+        <maven-archetype.version>3.3.0</maven-archetype.version>
         
     </properties>
 
