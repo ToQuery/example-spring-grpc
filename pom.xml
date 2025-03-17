@@ -29,7 +29,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 
-        <protobuf.version>4.28.2</protobuf.version>
+        <protobuf.version>4.30.1</protobuf.version>
 
         <grpc.version>1.71.0</grpc.version><!-- CURRENT_GRPC_VERSION -->
 
